@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>localhost:8080/tags/bash/</loc>
+    <lastmod>2023-09-16T22:09:52+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/projects/diogenes/</loc>
+    <lastmod>2023-09-16T22:09:52+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/</loc>
+    <lastmod>2023-09-16T22:09:52+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/tags/projects/</loc>
+    <lastmod>2023-09-16T22:09:52+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/tags/</loc>
+    <lastmod>2023-09-16T22:09:52+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/blog/</loc>
+    <lastmod>2023-09-09T21:36:39+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/projects/</loc>
+    <lastmod>2023-09-09T21:07:44+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/projects/tjallfetch/</loc>
+    <lastmod>2023-09-09T18:42:18+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/projects/bokre/</loc>
+    <lastmod>2023-09-09T18:41:58+02:00</lastmod>
+  </url><url>
+    <loc>localhost:8080/categories/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>HUMLEBORG</title>
+	<link>localhost:8080/projects/</link>
+	<description>Recent content in Projects on HUMLEBORG</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 09 Sep 2023 21:07:44 +0200</lastBuildDate>
+    
+        <atom:link href="localhost:8080/projects/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Diogenes - Get ya barber&#39;up possesh!</title>
+		<link>localhost:8080/projects/diogenes/</link>
+		<pubDate>Sat, 16 Sep 2023 22:09:52 +0200</pubDate>
+		
+		<guid>localhost:8080/projects/diogenes/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/diogenes.png&#34; alt=&#34;diogenes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hobo slang of the day in the terminal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/diogenes&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Tjallfetch - Personal nerdfetch script</title>
+		<link>localhost:8080/projects/tjallfetch/</link>
+		<pubDate>Sat, 09 Sep 2023 18:42:18 +0200</pubDate>
+		
+		<guid>localhost:8080/projects/tjallfetch/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/tjall.png&#34; alt=&#34;tjallfetch&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My personal nerdfetch script with fortune&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/tjallfetch&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Bokre - Bookmarking script</title>
+		<link>localhost:8080/projects/bokre/</link>
+		<pubDate>Sat, 09 Sep 2023 18:41:58 +0200</pubDate>
+		
+		<guid>localhost:8080/projects/bokre/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/bb.png&#34; alt=&#34;bokre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;localhost:8080/bolm.png&#34; alt=&#34;bokre2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A simple bookmarking script that can save, sort and read bookmarks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/bokre&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
