@@ -1,25 +1,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>HUMLEBORG</title>
-	<link>localhost:8080/tags/</link>
+	<link>https://gimlevala.github.io/tags/</link>
 	<description>Recent content in Tags on HUMLEBORG</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 16 Sep 2023 22:09:52 +0200</lastBuildDate>
+	<lastBuildDate>Wed, 29 Nov 2023 02:53:43 +0100</lastBuildDate>
     
-        <atom:link href="localhost:8080/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gimlevala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Arch Wiki Offline scripts - Ready for armageddon</title>
+		<link>https://gimlevala.github.io/projects/awosh/</link>
+		<pubDate>Wed, 29 Nov 2023 02:53:43 +0100</pubDate>
+		
+		<guid>https://gimlevala.github.io/projects/awosh/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://gimlevala.github.io/awosh.png&#34; alt=&#34;awosh&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A way to scroll and search the arch wiki long away from the scary 5G and network cables.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitea.com/humleborg/arch_wiki_offline_scripts&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Diogenes - Get ya barber&#39;up possesh!</title>
-		<link>localhost:8080/projects/diogenes/</link>
+		<link>https://gimlevala.github.io/projects/diogenes/</link>
 		<pubDate>Sat, 16 Sep 2023 22:09:52 +0200</pubDate>
 		
-		<guid>localhost:8080/projects/diogenes/</guid>
-		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/diogenes.png&#34; alt=&#34;diogenes&#34;&gt;&lt;/p&gt;
+		<guid>https://gimlevala.github.io/projects/diogenes/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://gimlevala.github.io/diogenes.png&#34; alt=&#34;diogenes&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hobo slang of the day in the terminal.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/diogenes&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitea.com/humleborg/diogenes&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
 </description>
@@ -27,14 +42,14 @@
 	
 	<item>
 		<title>Tjallfetch - Personal nerdfetch script</title>
-		<link>localhost:8080/projects/tjallfetch/</link>
+		<link>https://gimlevala.github.io/projects/tjallfetch/</link>
 		<pubDate>Sat, 09 Sep 2023 18:42:18 +0200</pubDate>
 		
-		<guid>localhost:8080/projects/tjallfetch/</guid>
-		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/tjall.png&#34; alt=&#34;tjallfetch&#34;&gt;&lt;/p&gt;
+		<guid>https://gimlevala.github.io/projects/tjallfetch/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://gimlevala.github.io/tjall.png&#34; alt=&#34;tjallfetch&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My personal nerdfetch script with fortune&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/tjallfetch&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitea.com/humleborg/tjallfetch&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
 </description>
@@ -42,15 +57,15 @@
 	
 	<item>
 		<title>Bokre - Bookmarking script</title>
-		<link>localhost:8080/projects/bokre/</link>
+		<link>https://gimlevala.github.io/projects/bokre/</link>
 		<pubDate>Sat, 09 Sep 2023 18:41:58 +0200</pubDate>
 		
-		<guid>localhost:8080/projects/bokre/</guid>
-		<description>&lt;p&gt;&lt;img src=&#34;localhost:8080/bb.png&#34; alt=&#34;bokre&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;localhost:8080/bolm.png&#34; alt=&#34;bokre2&#34;&gt;&lt;/p&gt;
+		<guid>https://gimlevala.github.io/projects/bokre/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;https://gimlevala.github.io/bb.png&#34; alt=&#34;bokre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://gimlevala.github.io/bolm.png&#34; alt=&#34;bokre2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A simple bookmarking script that can save, sort and read bookmarks.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gimlevala/bokre&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitea.com/humleborg/bokre&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Made with love &amp;lt;3&lt;/p&gt;
 </description>
