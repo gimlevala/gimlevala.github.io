@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gimlevala.github.io/blog/</loc>
+    <lastmod>2023-12-20T03:50:57+01:00</lastmod>
+  </url><url>
+    <loc>https://gimlevala.github.io/</loc>
+    <lastmod>2023-12-20T03:50:57+01:00</lastmod>
+  </url><url>
+    <loc>https://gimlevala.github.io/blog/pod1/</loc>
+    <lastmod>2023-12-20T03:50:57+01:00</lastmod>
+  </url><url>
     <loc>https://gimlevala.github.io/projects/awosh/</loc>
     <lastmod>2023-11-29T02:53:43+01:00</lastmod>
   </url><url>
     <loc>https://gimlevala.github.io/tags/bash/</loc>
-    <lastmod>2023-11-29T02:53:43+01:00</lastmod>
-  </url><url>
-    <loc>https://gimlevala.github.io/</loc>
     <lastmod>2023-11-29T02:53:43+01:00</lastmod>
   </url><url>
     <loc>https://gimlevala.github.io/tags/projects/</loc>
@@ -19,9 +25,6 @@
   </url><url>
     <loc>https://gimlevala.github.io/projects/diogenes/</loc>
     <lastmod>2023-09-16T22:09:52+02:00</lastmod>
-  </url><url>
-    <loc>https://gimlevala.github.io/blog/</loc>
-    <lastmod>2023-09-09T21:36:39+02:00</lastmod>
   </url><url>
     <loc>https://gimlevala.github.io/projects/</loc>
     <lastmod>2023-09-09T21:07:44+02:00</lastmod>
